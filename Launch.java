@@ -10,7 +10,7 @@ System.out.println("Exploring Git and GitHub! ");
 {
 	system.out.println(sum);
 }
-	  int a=40;
+          int a=40;
 	  int b =20;
 		sub=(a-b);
 {
